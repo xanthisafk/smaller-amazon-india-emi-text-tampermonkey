@@ -9,3 +9,14 @@ Makes the EMI amount smaller so that your eyes focus on the real price first.
     - **Greasemonkey**: [Link](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
   
 2. Install the script: [Link](https://greasyfork.org/en/scripts/477100-smaller-amazon-emi-text)
+
+## Before and After
+
+| Before | After |
+|--------|-------|
+| ![Before](assets/before.png) | ![After](assets/after.png) |
+
+
+### Why?
+
+Don't know. `¯\_(ツ)_/¯`
